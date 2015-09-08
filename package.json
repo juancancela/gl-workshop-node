@@ -1,0 +1,25 @@
+{
+  "name": "gl-workshop-node",
+  "version": "1.0.0",
+  "description": "Node application used during Globallogic Node JS course",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/juancancela/gl-workshop-node.git"
+  },
+  "keywords": [
+    "gl",
+    "test",
+    "node",
+    "workshop"
+  ],
+  "author": "Juan Carlos Cancela <cancela.juancarlos@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/juancancela/gl-workshop-node/issues"
+  },
+  "homepage": "https://github.com/juancancela/gl-workshop-node"
+}
