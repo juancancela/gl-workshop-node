@@ -23,6 +23,8 @@
   },
   "homepage": "https://github.com/juancancela/gl-workshop-node",
   "dependencies": {
+    "body-parser": "^1.13.3",
+    "ejs": "^2.3.4",
     "express": "^4.13.3"
   }
 }
