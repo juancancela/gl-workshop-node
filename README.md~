@@ -14,5 +14,3 @@ $> npm install express --save
 
 
 * Create file app.js at application root
-
-

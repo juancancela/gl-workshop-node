@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/juancancela/gl-workshop-node/issues"
   },
-  "homepage": "https://github.com/juancancela/gl-workshop-node"
+  "homepage": "https://github.com/juancancela/gl-workshop-node",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
 }
